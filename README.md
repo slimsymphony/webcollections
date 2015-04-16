@@ -1,1 +1,1 @@
-# webcollections
+All intresting collections from WWW
